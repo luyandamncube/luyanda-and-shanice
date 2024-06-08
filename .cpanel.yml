@@ -6,6 +6,9 @@ deployment:
     # Ensure the target directory exists
     - /bin/mkdir -p $DEPLOYPATH
 
+    # Copy .htaccess file to the deployment path
+    - /bin/cp .htaccess $DEPLOYPATH
+
     # Copy HTML files to the deployment path
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp clarens.html $DEPLOYPATH
