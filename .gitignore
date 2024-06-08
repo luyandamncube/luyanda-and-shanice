@@ -1,0 +1,41 @@
+# Ignore macOS .DS_Store files
+.DS_Store
+
+# Ignore node_modules directory (common in JavaScript/Node.js projects)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories and files
+/dist/
+/build/
+/out/
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files (examples for VS Code and IntelliJ IDEA)
+.vscode/
+.idea/
+
+# Ignore environmental variable files
+.env
+.env.local
+
+# Ignore coverage reports
+coverage/
+.nyc_output/
+
+# Ignore npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore custom configuration files
+config/local.yml
