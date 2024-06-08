@@ -1,0 +1,45 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/luyandde/public_html/
+    - /bin/mkdir -p $DEPLOYPATH
+
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp clarens.html $DEPLOYPATH
+    - /bin/cp events.html $DEPLOYPATH
+    - /bin/cp faq.html $DEPLOYPATH
+    - /bin/cp our-story.html $DEPLOYPATH
+    - /bin/cp registry.html $DEPLOYPATH
+    - /bin/cp rsvp.html $DEPLOYPATH
+
+    - /bin/mkdir -p $DEPLOYPATH/20240608083421114
+    - /bin/cp /20240608083421114/site.css $DEPLOYPATH/20240608083421114/
+    - /bin/cp /20240608083421114/static.css $DEPLOYPATH/20240608083421114/
+
+    - /bin/mkdir -p $DEPLOYPATH/20240608083427370
+    - /bin/cp /20240608083427370/site.css $DEPLOYPATH/20240608083427370/
+    - /bin/cp /20240608083427370/static.css $DEPLOYPATH/20240608083427370/
+
+    - /bin/mkdir -p $DEPLOYPATH/20240608083434597
+    - /bin/cp /20240608083434597/site.css $DEPLOYPATH/20240608083434597/
+    - /bin/cp /20240608083434597/static.css $DEPLOYPATH/20240608083434597/
+
+    - /bin/mkdir -p $DEPLOYPATH/20240608083439309
+    - /bin/cp /20240608083439309/site.css $DEPLOYPATH/20240608083439309/
+    - /bin/cp /20240608083439309/static.css $DEPLOYPATH/20240608083439309/
+
+    - /bin/mkdir -p $DEPLOYPATH/20240608083452756
+    - /bin/cp /20240608083452756/site.css $DEPLOYPATH/20240608083452756/
+    - /bin/cp /20240608083452756/static.css $DEPLOYPATH/20240608083452756/
+
+    - /bin/mkdir -p $DEPLOYPATH/20240608083503902
+    - /bin/cp /20240608083503902/site.css $DEPLOYPATH/20240608083503902/
+    - /bin/cp /20240608083503902/static.css $DEPLOYPATH/20240608083503902/
+
+    - /bin/mkdir -p $DEPLOYPATH/20240608083509341
+    - /bin/cp /20240608083509341/site.css $DEPLOYPATH/20240608083509341/
+    - /bin/cp /20240608083509341/static.css $DEPLOYPATH/20240608083509341/
+
+    - /bin/mkdir -p $DEPLOYPATH/20240608083514638
+    - /bin/cp /20240608083514638/site.css $DEPLOYPATH/20240608083514638/
+    - /bin/cp /20240608083514638/static.css $DEPLOYPATH/20240608083514638/
