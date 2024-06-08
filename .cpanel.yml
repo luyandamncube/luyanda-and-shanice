@@ -14,6 +14,7 @@ deployment:
     - /bin/cp our-story.html $DEPLOYPATH
     - /bin/cp registry.html $DEPLOYPATH
     - /bin/cp rsvp.html $DEPLOYPATH
+    - /bin/cp travel-stay.html $DEPLOYPATH
 
     # Copy entire directories to the deployment path
     - /bin/cp -r 20240608083421114 $DEPLOYPATH
