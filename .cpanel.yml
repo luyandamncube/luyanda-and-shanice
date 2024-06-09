@@ -2,7 +2,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/luyandde/public_html/
-    
+
     # Ensure the target directory exists
     - /bin/mkdir -p $DEPLOYPATH
 
