@@ -1,4 +1,31 @@
 /* --heading-font-font-family */
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: auto;
+}  
+
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: auto;
+}  
 
 @font-face{
   font-family: "Orpheus Pro";
@@ -31,17 +58,73 @@
 
 @font-face{
   font-family: "Orpheus Pro";
-  src: url("css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
-  src: url("css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
-     url("css/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
-     url("css/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
-     url("css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
-     url("css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
   font-weight: 700;
   font-style: normal;
   font-stretch: normal;
   font-display: auto;
 }         
+
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: auto;
+}  
+
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: auto;
+}  
+
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 200;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: auto;
+}
+
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: auto;
+}
 
 @font-face{
   font-family: "Orpheus Pro";
@@ -57,17 +140,217 @@
   font-display: auto;
 }
 
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 500;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: auto;
+}
+
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 600;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: auto;
+}
+
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: auto;
+}
+
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 800;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: auto;
+}
+
+@font-face{
+  font-family: "Orpheus Pro";
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot");
+  src: url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.eot?#iefix")format("embedded-opentype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff")format("woff"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.woff2")format("woff2"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.ttf")format("truetype"),
+     url("/css/orpheus-pro/2aea0ac500c896188f9ad191c231029c.svg#Orpheus Pro")format("svg");
+  font-weight: 900;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: auto;
+}
+
 @font-face {
-  font-family: 'Adobe Garamond Pro Regular';
+  font-family: 'Garamond';
+  font-weight: 200;
   font-style: normal;
   font-weight: normal;
-  src: local('Adobe Garamond Pro Regular'), 
-     url('/css/garamond-pro/AGaramondPro-Regular.woff') format('woff');
+  src: local('Garamond'), 
+  
+     url('/css/garamond/Garamond.woff') format('woff');
+} 
+
+@font-face {
+  font-family: 'Garamond';
+  font-weight: 300;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Garamond'), 
+     url('/css/garamond/Garamond.woff') format('woff');
 }
 
 
 @font-face {
+  font-family: 'Garamond';
+  font-weight: 400;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Garamond'), 
+     url('/css/garamond/Garamond.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Garamond';
+  font-weight: 500;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Garamond'), 
+     url('/css/garamond/Garamond.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Garamond';
+  font-weight: 600;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Garamond'), 
+  
+     url('/css/garamond/Garamond.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Garamond';
+  font-weight: 700;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Garamond'), 
+     url('/css/garamond/Garamond.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Garamond';
+  font-weight: 800;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Garamond'), 
+     url('/css/garamond/Garamond.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Garamond';
+  font-weight: 900;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Garamond'), 
+     url('/css/garamond/Garamond.woff') format('woff');
+}
+
+@font-face {
   font-family: 'Adobe Garamond Pro Italic';
+  font-weight: 200;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Italic'), 
+  url('/css/garamond-pro/AGaramondPro-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Italic';
+  font-weight: 300;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Italic'), 
+  url('/css/garamond-pro/AGaramondPro-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Italic';
+  font-weight: 400;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Italic'), 
+  url('/css/garamond-pro/AGaramondPro-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Italic';
+  font-weight: 500;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Italic'), 
+  url('/css/garamond-pro/AGaramondPro-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Italic';
+  font-weight: 600;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Italic'), 
+  url('/css/garamond-pro/AGaramondPro-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Italic';
+  font-weight: 700;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Italic'), 
+  url('/css/garamond-pro/AGaramondPro-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Italic';
+  font-weight: 800;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Italic'), 
+  url('/css/garamond-pro/AGaramondPro-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Italic';
+  font-weight: 900;
   font-style: normal;
   font-weight: normal;
   src: local('Adobe Garamond Pro Italic'), 
@@ -77,6 +360,77 @@
 
 @font-face {
   font-family: 'Adobe Garamond Pro Bold';
+  font-weight: 200;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold'), 
+     url('/css/garamond-pro/AGaramondPro-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold';
+  font-weight: 300;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold'), 
+     url('/css/garamond-pro/AGaramondPro-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold';
+  font-weight: 400;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold'), 
+     url('/css/garamond-pro/AGaramondPro-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold';
+  font-weight: 500;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold'), 
+     url('/css/garamond-pro/AGaramondPro-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold';
+  font-weight: 600;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold'), 
+     url('/css/garamond-pro/AGaramondPro-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold';
+  font-weight: 700;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold'), 
+     url('/css/garamond-pro/AGaramondPro-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold';
+  font-weight: 800;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold'), 
+     url('/css/garamond-pro/AGaramondPro-Bold.woff') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold';
+  font-weight: 900;
   font-style: normal;
   font-weight: normal;
   src: local('Adobe Garamond Pro Bold'), 
@@ -86,6 +440,70 @@
 
 @font-face {
   font-family: 'Adobe Garamond Pro Bold Italic';
+  font-weight: 200;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold Italic'), 
+     url('/css/garamond-pro/AGaramondPro-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold Italic';
+  font-weight: 300;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold Italic'), 
+     url('/css/garamond-pro/AGaramondPro-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold Italic';
+  font-weight: 400;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold Italic'), 
+     url('/css/garamond-pro/AGaramondPro-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold Italic';
+  font-weight: 500;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold Italic'), 
+     url('/css/garamond-pro/AGaramondPro-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold Italic';
+  font-weight: 600;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold Italic'), 
+     url('/css/garamond-pro/AGaramondPro-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold Italic';
+  font-weight: 700;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold Italic'), 
+     url('/css/garamond-pro/AGaramondPro-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold Italic';
+  font-weight: 800;
+  font-style: normal;
+  font-weight: normal;
+  src: local('Adobe Garamond Pro Bold Italic'), 
+     url('/css/garamond-pro/AGaramondPro-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Adobe Garamond Pro Bold Italic';
+  font-weight: 900;
   font-style: normal;
   font-weight: normal;
   src: local('Adobe Garamond Pro Bold Italic'), 
